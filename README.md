@@ -1,2 +1,4 @@
-# nombre
-Creamos nuestro primer repo en nuestro github
+# Sobre Mi
+  Me llamo Agustin Moar, soy de Mar del Plata, Buenos Aires, Argentina. Actualmente me encuentro estudiando el secundario en el Instituto Albert Einstein y ya estoy inscripto para estudiar inginieria en sistemas en la universidad Caece. 
+  Hoy en día, relacionado con la informatica me encuentro estudiando los lenguajes de JS (Java Script) y Phyton;  a su vez me encuentro estudiando el framework Astro. Por ultimo conozco los principios de la arquitectura de website (HTML y CSS). Relacionado con los gustos, soy muy fanatico de los videojuegos y la electronica. A su vez soy mas diurno, por lo que soy mas eficiente durante la noche. 
+  Actualmente tengo varios codigos Juniors de Js que estan publicados a continuacion, pero a su vez tengo ideas de futuros proyectos que podrían ser muy exitosos.
